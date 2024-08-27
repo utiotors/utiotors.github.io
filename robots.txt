@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utiotors.github.io/sitemap.html.gz
+Sitemap: https://utiotors.github.io/app/sitemap.html.gz
+Sitemap: https://utiotors.github.io/assets/sitemap.html.gz
+Sitemap: https://utiotors.github.io/css/sitemap.html.gz
+Sitemap: https://utiotors.github.io/includes/sitemap.html.gz
+Sitemap: https://utiotors.github.io/item/sitemap.html.gz
+Sitemap: https://utiotors.github.io/src/sitemap.html.gz
